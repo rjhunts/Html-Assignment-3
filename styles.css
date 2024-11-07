@@ -1,0 +1,28 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td{
+    border: 1px solid white;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    color: white;
+    background-color: grey;
+    border: 1px solid white;
+    text-align: center;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+.city {
+    background-color: rgb(0, 0, 0);
+    color: white;
+  }

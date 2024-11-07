@@ -21,8 +21,3 @@ th {
 tr:nth-child(even) {
     background-color: lightgrey;
 }
-
-.city {
-    background-color: rgb(0, 0, 0);
-    color: white;
-  }

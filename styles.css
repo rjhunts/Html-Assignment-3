@@ -21,3 +21,11 @@ th {
 tr:nth-child(even) {
     background-color: lightgrey;
 }
+
+.bolded {
+    font-weight: bold;
+}
+
+.text-left {
+    text-align: left;
+}
